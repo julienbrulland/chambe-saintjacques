@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commentaires sur : Le pays basque</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>...un peu plus...un peu moins.</description>
+	<lastBuildDate>Thu, 02 Jun 2016 01:55:20 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Par : Muriel</title>
+		<link>./../index.html#comment-1407</link>
+		<dc:creator><![CDATA[Muriel]]></dc:creator>
+		<pubDate>Tue, 28 Apr 2015 12:13:54 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../../index.html?p=581#comment-1407</guid>
+		<description><![CDATA[Merci Bernadette!
+Toute mon indefectible amitié à toi aussi, en retour...]]></description>
+		<content:encoded><![CDATA[<p>Merci Bernadette!<br />
+Toute mon indefectible amitié à toi aussi, en retour&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : Bernadette</title>
+		<link>./../index.html#comment-1406</link>
+		<dc:creator><![CDATA[Bernadette]]></dc:creator>
+		<pubDate>Sat, 25 Apr 2015 12:14:56 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../../index.html?p=581#comment-1406</guid>
+		<description><![CDATA[Ça y est! J&#039;ai accédé au site et pu lire les commentaires pertinents et admiré les belles photos.
+Une expėrience sûrement inoubliable que ce Chemin ! Plein de souvenirs engrangės pour plus tard &quot; le soir, à la chandelle...&quot;
+Bravo et toute mon indėfectible amitié ! Bernadette.]]></description>
+		<content:encoded><![CDATA[<p>Ça y est! J&rsquo;ai accédé au site et pu lire les commentaires pertinents et admiré les belles photos.<br />
+Une expėrience sûrement inoubliable que ce Chemin ! Plein de souvenirs engrangės pour plus tard  » le soir, à la chandelle&#8230; »<br />
+Bravo et toute mon indėfectible amitié ! Bernadette.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

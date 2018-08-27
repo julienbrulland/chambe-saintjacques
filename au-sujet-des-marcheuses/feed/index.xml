@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commentaires sur : Au Sujet des Marcheuses</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>...un peu plus...un peu moins.</description>
+	<lastBuildDate>Thu, 02 Jun 2016 01:55:20 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Par : GRAILLES jean louis</title>
+		<link>./../index.html#comment-40</link>
+		<dc:creator><![CDATA[GRAILLES jean louis]]></dc:creator>
+		<pubDate>Wed, 02 Apr 2014 12:49:16 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?page_id=99#comment-40</guid>
+		<description><![CDATA[Un départ le 1 avril c&#039;était pas une blague ? et bien alors c&#039;est parti les valseuses... oh pardon les marcheuses ? bonnes routes et bonnes reveries..... &quot; je réponds à ceux qui me demandent la raison de mes voyages que je sais bien ce que je fuis mais non pas ce que je cherche &quot; dit Montaigne..... et moi Anne Marie j&#039;espére que tu trouveras ce que tu cherches....]]></description>
+		<content:encoded><![CDATA[<p>Un départ le 1 avril c&rsquo;était pas une blague ? et bien alors c&rsquo;est parti les valseuses&#8230; oh pardon les marcheuses ? bonnes routes et bonnes reveries&#8230;..  » je réponds à ceux qui me demandent la raison de mes voyages que je sais bien ce que je fuis mais non pas ce que je cherche  » dit Montaigne&#8230;.. et moi Anne Marie j&rsquo;espére que tu trouveras ce que tu cherches&#8230;.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : Pilet sylvie</title>
+		<link>./../index.html#comment-15</link>
+		<dc:creator><![CDATA[Pilet sylvie]]></dc:creator>
+		<pubDate>Mon, 03 Feb 2014 18:34:32 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?page_id=99#comment-15</guid>
+		<description><![CDATA[Un grand bravo pour cette magnifique aventure. Je suivrais de très près votre périple.]]></description>
+		<content:encoded><![CDATA[<p>Un grand bravo pour cette magnifique aventure. Je suivrais de très près votre périple.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : Jean-Marie</title>
+		<link>./../index.html#comment-10</link>
+		<dc:creator><![CDATA[Jean-Marie]]></dc:creator>
+		<pubDate>Fri, 24 Jan 2014 18:26:04 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?page_id=99#comment-10</guid>
+		<description><![CDATA[Un grand bla bla bla à nos bla bla bla marcheuses.......ca va être une bla bla bla aventure !
+
+J-Marie]]></description>
+		<content:encoded><![CDATA[<p>Un grand bla bla bla à nos bla bla bla marcheuses&#8230;&#8230;.ca va être une bla bla bla aventure !</p>
+<p>J-Marie</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

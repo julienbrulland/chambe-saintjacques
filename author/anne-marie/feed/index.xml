@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Anne-Marie Tilmant-Greslé &#8211; De Chambé à Saint-Jacques en 90 jours&#8230;</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>...un peu plus...un peu moins.</description>
+	<lastBuildDate>Mon, 20 Jul 2015 11:52:00 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>En route vers l&#8217;Espagne !</title>
+		<link>./../../../2014/05/28/en-route-vers-lespagne/index.html</link>
+		<comments>./../../../2014/05/28/en-route-vers-lespagne/index.html#comments</comments>
+		<pubDate>Wed, 28 May 2014 20:39:24 +0000</pubDate>
+		<dc:creator><![CDATA[Anne-Marie Tilmant-Greslé]]></dc:creator>
+				<category><![CDATA[Étapes]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=412</guid>
+		<description><![CDATA[Demain, je passe en Espagne par la montagne. Un grand merci à tous ceux qui s&#8217;intéressent au voyage et qui m&#8217;encouragent. C&#8217;est très stimulant. Je pense très fort à vous. Anne-Marie]]></description>
+		<wfw:commentRss>./../../../2014/05/28/en-route-vers-lespagne/feed/index.html</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Buen camino Muriel !</title>
+		<link>./../../../2014/05/28/buen-camino-muriel/index.html</link>
+		<comments>./../../../2014/05/28/buen-camino-muriel/index.html#respond</comments>
+		<pubDate>Wed, 28 May 2014 20:35:20 +0000</pubDate>
+		<dc:creator><![CDATA[Anne-Marie Tilmant-Greslé]]></dc:creator>
+				<category><![CDATA[Étapes]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=410</guid>
+		<description><![CDATA[Après ces super 300 km parcourus ensemble, dans la joie, te voici en route, seule, vers une nouvelle aventure. Bonne chance Muriel ! Ultreïa ! Anne-Marie]]></description>
+		<wfw:commentRss>./../../../2014/05/28/buen-camino-muriel/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Un peu de géographie: Chambéry, le lac du Bourget, Yenne.</title>
+		<link>./../../../2014/04/02/un-peu-de-geographie-chambery-le-lac-du-bourget-yenne/index.html</link>
+		<comments>./../../../2014/04/02/un-peu-de-geographie-chambery-le-lac-du-bourget-yenne/index.html#comments</comments>
+		<pubDate>Wed, 02 Apr 2014 14:58:19 +0000</pubDate>
+		<dc:creator><![CDATA[Anne-Marie Tilmant-Greslé]]></dc:creator>
+				<category><![CDATA[Étapes]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=217</guid>
+		<description><![CDATA[&#160; &#160; &#160; &#160; &#160; &#160; &#160;]]></description>
+		<wfw:commentRss>./../../../2014/04/02/un-peu-de-geographie-chambery-le-lac-du-bourget-yenne/feed/index.html</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Préparatifs.</title>
+		<link>./../../../2014/03/26/preparatifs-2/index.html</link>
+		<comments>./../../../2014/03/26/preparatifs-2/index.html#comments</comments>
+		<pubDate>Wed, 26 Mar 2014 22:32:57 +0000</pubDate>
+		<dc:creator><![CDATA[Anne-Marie Tilmant-Greslé]]></dc:creator>
+				<category><![CDATA[Bagages]]></category>
+		<category><![CDATA[Préparatifs]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=222</guid>
+		<description><![CDATA[&#160; Ce fut un moment très festif, joyeux même et plein d&#8217;enseignements au delà de ce que j&#8217;avais imaginé. Ils ont été assez  longs et auront duré trois mois à cause de notre inexpérience Le premier achat est bien entendu&#8230; ]]></description>
+		<wfw:commentRss>./../../../2014/03/26/preparatifs-2/feed/index.html</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

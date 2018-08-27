@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commentaires sur : Accueils et rencontres.</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>...un peu plus...un peu moins.</description>
+	<lastBuildDate>Thu, 02 Jun 2016 01:55:20 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Par : Thomas</title>
+		<link>./../index.html#comment-47</link>
+		<dc:creator><![CDATA[Thomas]]></dc:creator>
+		<pubDate>Mon, 07 Apr 2014 18:23:58 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../../index.html?p=285#comment-47</guid>
+		<description><![CDATA[Bientôt une semaine ....
+
+Je ne sais pas si vous avez le loisir de regarder internet mais il y a une émission sur Conques où vous serez bientôt:
+http://www.arte.tv/guide/fr/044992-008/villages-de-france?autoplay=1
+
+Profitez bien de votre promenade.]]></description>
+		<content:encoded><![CDATA[<p>Bientôt une semaine &#8230;.</p>
+<p>Je ne sais pas si vous avez le loisir de regarder internet mais il y a une émission sur Conques où vous serez bientôt:<br />
+<a href="http://www.arte.tv/guide/fr/044992-008/villages-de-france?autoplay=1" rel="nofollow">http://www.arte.tv/guide/fr/044992-008/villages-de-france?autoplay=1</a></p>
+<p>Profitez bien de votre promenade.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : Bernadette</title>
+		<link>./../index.html#comment-46</link>
+		<dc:creator><![CDATA[Bernadette]]></dc:creator>
+		<pubDate>Sun, 06 Apr 2014 19:27:28 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../../index.html?p=285#comment-46</guid>
+		<description><![CDATA[Gardez votre bel appétit: rien à craindre pour la ligne en avalant aussi les kilomètres!
+Bises et bonne marche.
+Bernadette]]></description>
+		<content:encoded><![CDATA[<p>Gardez votre bel appétit: rien à craindre pour la ligne en avalant aussi les kilomètres!<br />
+Bises et bonne marche.<br />
+Bernadette</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

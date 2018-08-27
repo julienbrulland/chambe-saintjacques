@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commentaires sur : Nasbinals</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>...un peu plus...un peu moins.</description>
+	<lastBuildDate>Thu, 02 Jun 2016 01:55:20 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Par : Litzler Noëlle</title>
+		<link>./../index.html#comment-107</link>
+		<dc:creator><![CDATA[Litzler Noëlle]]></dc:creator>
+		<pubDate>Wed, 04 Jun 2014 06:26:30 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../../index.html?p=417#comment-107</guid>
+		<description><![CDATA[Merci pour ton mail; nous te souhaitons beau temps et de belles rencontres.]]></description>
+		<content:encoded><![CDATA[<p>Merci pour ton mail; nous te souhaitons beau temps et de belles rencontres.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : sabalçagaray anne</title>
+		<link>./../index.html#comment-105</link>
+		<dc:creator><![CDATA[sabalçagaray anne]]></dc:creator>
+		<pubDate>Mon, 02 Jun 2014 21:03:17 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../../index.html?p=417#comment-105</guid>
+		<description><![CDATA[ravie, Muriel, et félicitations pour ton  &quot;on the road again, again...&quot; 
+
+une nouvelle mise en jambes dans l&#039;Aubrac si je me souviens bien ... tu reprends seule avec d&#039;autres acolytes?
+
+dans tous les cas, tu as le temps avec toi ...
+
+bonne route
+
+chaleureusement
+
+Anne]]></description>
+		<content:encoded><![CDATA[<p>ravie, Muriel, et félicitations pour ton  « on the road again, again&#8230; » </p>
+<p>une nouvelle mise en jambes dans l&rsquo;Aubrac si je me souviens bien &#8230; tu reprends seule avec d&rsquo;autres acolytes?</p>
+<p>dans tous les cas, tu as le temps avec toi &#8230;</p>
+<p>bonne route</p>
+<p>chaleureusement</p>
+<p>Anne</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

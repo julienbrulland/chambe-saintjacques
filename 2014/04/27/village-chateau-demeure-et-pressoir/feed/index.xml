@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commentaires sur : Village, château, demeure et pressoir.</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>...un peu plus...un peu moins.</description>
+	<lastBuildDate>Thu, 02 Jun 2016 01:55:20 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Par : Odile Huchette</title>
+		<link>./../index.html#comment-104</link>
+		<dc:creator><![CDATA[Odile Huchette]]></dc:creator>
+		<pubDate>Mon, 02 Jun 2014 18:03:50 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../../index.html?p=363#comment-104</guid>
+		<description><![CDATA[Bravo Muriel pour ton nouveau départ.Tu vas peut être rejoindre Anne Marie si tu marches vite et qu&#039;elle ralentit un peu!!!
+Bravo à vous deux,je suis votre périple avec envie...
+Bisous
+Odile]]></description>
+		<content:encoded><![CDATA[<p>Bravo Muriel pour ton nouveau départ.Tu vas peut être rejoindre Anne Marie si tu marches vite et qu&rsquo;elle ralentit un peu!!!<br />
+Bravo à vous deux,je suis votre périple avec envie&#8230;<br />
+Bisous<br />
+Odile</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

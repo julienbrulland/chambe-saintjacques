@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commentaires sur : Accueils</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>...un peu plus...un peu moins.</description>
+	<lastBuildDate>Thu, 02 Jun 2016 01:55:20 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Par : Litzler Noëlle</title>
+		<link>./../index.html#comment-62</link>
+		<dc:creator><![CDATA[Litzler Noëlle]]></dc:creator>
+		<pubDate>Sun, 13 Apr 2014 10:45:28 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../../index.html?p=308#comment-62</guid>
+		<description><![CDATA[Bravo pour votre courage et votre enthousiasme! le temps semble avec vous; les prédictions dauphinoises semblent se réaliser; détail curieux: le nom de famille  d&#039;Anne-Marie est celui de mon maître d&#039; aïkido en région parisienne (un monsieur de 80 ans aujourd&#039;hui) ; un rapport?]]></description>
+		<content:encoded><![CDATA[<p>Bravo pour votre courage et votre enthousiasme! le temps semble avec vous; les prédictions dauphinoises semblent se réaliser; détail curieux: le nom de famille  d&rsquo;Anne-Marie est celui de mon maître d&rsquo; aïkido en région parisienne (un monsieur de 80 ans aujourd&rsquo;hui) ; un rapport?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : Gérard BRULLAND</title>
+		<link>./../index.html#comment-55</link>
+		<dc:creator><![CDATA[Gérard BRULLAND]]></dc:creator>
+		<pubDate>Fri, 11 Apr 2014 21:28:12 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../../index.html?p=308#comment-55</guid>
+		<description><![CDATA[T&#039;as raison Muriel, allongé sur la chaise longue, je ne faiblis pas ! C&#039;est beau et dépaysant de vous suivre comme ça !!!!
+Allez courage !]]></description>
+		<content:encoded><![CDATA[<p>T&rsquo;as raison Muriel, allongé sur la chaise longue, je ne faiblis pas ! C&rsquo;est beau et dépaysant de vous suivre comme ça !!!!<br />
+Allez courage !</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

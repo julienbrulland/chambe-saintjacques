@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commentaires sur : Très cosmopolite le chemin!</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>...un peu plus...un peu moins.</description>
+	<lastBuildDate>Thu, 02 Jun 2016 01:55:20 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Par : Michel</title>
+		<link>./../index.html#comment-216</link>
+		<dc:creator><![CDATA[Michel]]></dc:creator>
+		<pubDate>Thu, 12 Jun 2014 08:10:56 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../../index.html?p=443#comment-216</guid>
+		<description><![CDATA[A la  terrasse de cet établissement la pose semble justifiée  tant les traits paraissent tirés! La chaleur n&#039;est pas trop dure à supporter?]]></description>
+		<content:encoded><![CDATA[<p>A la  terrasse de cet établissement la pose semble justifiée  tant les traits paraissent tirés! La chaleur n&rsquo;est pas trop dure à supporter?</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

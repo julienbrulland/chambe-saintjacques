@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bagages &#8211; De Chambé à Saint-Jacques en 90 jours&#8230;</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>...un peu plus...un peu moins.</description>
+	<lastBuildDate>Mon, 20 Jul 2015 11:52:00 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Préparatifs.</title>
+		<link>./../../../2014/03/26/preparatifs-2/index.html</link>
+		<comments>./../../../2014/03/26/preparatifs-2/index.html#comments</comments>
+		<pubDate>Wed, 26 Mar 2014 22:32:57 +0000</pubDate>
+		<dc:creator><![CDATA[Anne-Marie Tilmant-Greslé]]></dc:creator>
+				<category><![CDATA[Bagages]]></category>
+		<category><![CDATA[Préparatifs]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=222</guid>
+		<description><![CDATA[&#160; Ce fut un moment très festif, joyeux même et plein d&#8217;enseignements au delà de ce que j&#8217;avais imaginé. Ils ont été assez  longs et auront duré trois mois à cause de notre inexpérience Le premier achat est bien entendu&#8230; ]]></description>
+		<wfw:commentRss>./../../../2014/03/26/preparatifs-2/feed/index.html</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

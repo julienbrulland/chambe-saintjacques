@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commentaires sur : Un dimanche à Cahors</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>...un peu plus...un peu moins.</description>
+	<lastBuildDate>Thu, 02 Jun 2016 01:55:20 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Par : admin</title>
+		<link>./../index.html#comment-681</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 23 Jun 2014 11:11:35 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../../index.html?p=468#comment-681</guid>
+		<description><![CDATA[Ca fait envie ! Très belles photos et belle assiette !
+
+Joyeux anniversaire aussi ! J&#039;espère que tu as pu le fêter un peu chez l&#039;habitant ?
+
+Nous t&#039;embrassons fort !
+
+Huong et Julien]]></description>
+		<content:encoded><![CDATA[<p>Ca fait envie ! Très belles photos et belle assiette !</p>
+<p>Joyeux anniversaire aussi ! J&rsquo;espère que tu as pu le fêter un peu chez l&rsquo;habitant ?</p>
+<p>Nous t&#8217;embrassons fort !</p>
+<p>Huong et Julien</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

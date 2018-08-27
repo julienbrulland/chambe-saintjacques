@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commentaires sur : Notre accueil de ce soir&#8230;</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>...un peu plus...un peu moins.</description>
+	<lastBuildDate>Thu, 02 Jun 2016 01:55:20 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Par : Vincent</title>
+		<link>./../index.html#comment-61</link>
+		<dc:creator><![CDATA[Vincent]]></dc:creator>
+		<pubDate>Sun, 13 Apr 2014 07:36:24 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../../index.html?p=318#comment-61</guid>
+		<description><![CDATA[Bravo à toutes les deux!
+Je pense qu&#039;avec Gérard on a les mêmes valeurs s&#039;agissant de la Chartreuse (pas celle de Parme, Muriel en ferait tout un roman!) mais la verte, celle qui de par, entre autres sa couleur, est écologique.
+Bon chemin ...]]></description>
+		<content:encoded><![CDATA[<p>Bravo à toutes les deux!<br />
+Je pense qu&rsquo;avec Gérard on a les mêmes valeurs s&rsquo;agissant de la Chartreuse (pas celle de Parme, Muriel en ferait tout un roman!) mais la verte, celle qui de par, entre autres sa couleur, est écologique.<br />
+Bon chemin &#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : Gérard BRULLAND</title>
+		<link>./../index.html#comment-52</link>
+		<dc:creator><![CDATA[Gérard BRULLAND]]></dc:creator>
+		<pubDate>Fri, 11 Apr 2014 20:50:42 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../../index.html?p=318#comment-52</guid>
+		<description><![CDATA[Un chartreux ... une chartreuse ! Hips ! Y&#039;a des jours comme ça où je regrette un peu de ne pas vous avoir suivies.]]></description>
+		<content:encoded><![CDATA[<p>Un chartreux &#8230; une chartreuse ! Hips ! Y&rsquo;a des jours comme ça où je regrette un peu de ne pas vous avoir suivies.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : Annette Lallemande</title>
+		<link>./../index.html#comment-51</link>
+		<dc:creator><![CDATA[Annette Lallemande]]></dc:creator>
+		<pubDate>Fri, 11 Apr 2014 07:18:23 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../../index.html?p=318#comment-51</guid>
+		<description><![CDATA[Quel bel endroit ! Heureusement on n&#039;est pas en plein hiver, il doit faire frais dans ces murs anciens.
+Continuez bien votre route! Biz]]></description>
+		<content:encoded><![CDATA[<p>Quel bel endroit ! Heureusement on n&rsquo;est pas en plein hiver, il doit faire frais dans ces murs anciens.<br />
+Continuez bien votre route! Biz</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

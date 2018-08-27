@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commentaires sur : Anne-Marie</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>...un peu plus...un peu moins.</description>
+	<lastBuildDate>Thu, 02 Jun 2016 01:55:20 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Par : Odile Huchette</title>
+		<link>./../index.html#comment-21</link>
+		<dc:creator><![CDATA[Odile Huchette]]></dc:creator>
+		<pubDate>Sun, 23 Feb 2014 16:30:11 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?page_id=82#comment-21</guid>
+		<description><![CDATA[Trop bien pour vous suivre par la pensée!!!
+Alors finalement quelle date de départ?
+Et même si la météo annonce que du beau temps et que du bonheur pendant 9O jours.
+ j&#039;ai quand même parlé de la cape de pluie hier à notre sortie ushuaïa dans les Bauges aux copines,elles ont confirmé indispensable!Régine te propose la sienne et Nadine aussi.la mienne est pleine de trous alors ce n&#039;est pas la peine....
+Bisous
+Odile]]></description>
+		<content:encoded><![CDATA[<p>Trop bien pour vous suivre par la pensée!!!<br />
+Alors finalement quelle date de départ?<br />
+Et même si la météo annonce que du beau temps et que du bonheur pendant 9O jours.<br />
+ j&rsquo;ai quand même parlé de la cape de pluie hier à notre sortie ushuaïa dans les Bauges aux copines,elles ont confirmé indispensable!Régine te propose la sienne et Nadine aussi.la mienne est pleine de trous alors ce n&rsquo;est pas la peine&#8230;.<br />
+Bisous<br />
+Odile</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

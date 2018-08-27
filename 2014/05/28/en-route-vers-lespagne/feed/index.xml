@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commentaires sur : En route vers l&#8217;Espagne !</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>...un peu plus...un peu moins.</description>
+	<lastBuildDate>Thu, 02 Jun 2016 01:55:20 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Par : Christian DUVAL</title>
+		<link>./../index.html#comment-102</link>
+		<dc:creator><![CDATA[Christian DUVAL]]></dc:creator>
+		<pubDate>Sat, 31 May 2014 21:54:53 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../../index.html?p=412#comment-102</guid>
+		<description><![CDATA[Olé!
+Como estas?
+un pied devant l&#039;autre et recommence ...reviens nous avec de nombreuses photos, des histoires et des contacts.
+Bises
+ChD]]></description>
+		<content:encoded><![CDATA[<p>Olé!<br />
+Como estas?<br />
+un pied devant l&rsquo;autre et recommence &#8230;reviens nous avec de nombreuses photos, des histoires et des contacts.<br />
+Bises<br />
+ChD</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : Jacques &#38; Philippe</title>
+		<link>./../index.html#comment-101</link>
+		<dc:creator><![CDATA[Jacques &#38; Philippe]]></dc:creator>
+		<pubDate>Sat, 31 May 2014 09:13:59 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../../index.html?p=412#comment-101</guid>
+		<description><![CDATA[Donnes nous quelques nouvelles.. Après Condom, ampoules et tendinite !!!
+Super de continuer, nous aurions bien aimé faire de même.
+Bises]]></description>
+		<content:encoded><![CDATA[<p>Donnes nous quelques nouvelles.. Après Condom, ampoules et tendinite !!!<br />
+Super de continuer, nous aurions bien aimé faire de même.<br />
+Bises</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commentaires sur : Accueils</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>...un peu plus...un peu moins.</description>
+	<lastBuildDate>Thu, 02 Jun 2016 01:55:20 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Par : Gérard BRULLAND</title>
+		<link>./../index.html#comment-56</link>
+		<dc:creator><![CDATA[Gérard BRULLAND]]></dc:creator>
+		<pubDate>Fri, 11 Apr 2014 21:31:23 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../../index.html?p=311#comment-56</guid>
+		<description><![CDATA[Ca a l&#039;air bon ... Y&#039;a des jours, on regrette !]]></description>
+		<content:encoded><![CDATA[<p>Ca a l&rsquo;air bon &#8230; Y&rsquo;a des jours, on regrette !</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

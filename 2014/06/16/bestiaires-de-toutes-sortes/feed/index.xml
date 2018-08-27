@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commentaires sur : Bestiaires de toutes sortes</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>...un peu plus...un peu moins.</description>
+	<lastBuildDate>Thu, 02 Jun 2016 01:55:20 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Par : Michel</title>
+		<link>./../index.html#comment-460</link>
+		<dc:creator><![CDATA[Michel]]></dc:creator>
+		<pubDate>Wed, 18 Jun 2014 05:43:29 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../../index.html?p=455#comment-460</guid>
+		<description><![CDATA[Pas bête le papillon qui a su trouver un &quot;abreuvoir&quot; plus adapté que la fontaine et offrant une boisson plus minéralisée sans doute! L&#039;âne (ou ânesse) avec les oreilles latérales... c&#039;est une espèce locale?                                                                                                                      « Pour votre santé, mangez au moins cinq fruits et légumes par jour » ; 
+« Pour votre santé, pratiquez une activité physique régulière , évitez de manger trop gras, trop sucré, trop salé » ; évitez de grignoter entre les repas, buvez régulièrement et sans modération l&#039;eau de la fontaine ».
+Bonne continuation!]]></description>
+		<content:encoded><![CDATA[<p>Pas bête le papillon qui a su trouver un « abreuvoir » plus adapté que la fontaine et offrant une boisson plus minéralisée sans doute! L&rsquo;âne (ou ânesse) avec les oreilles latérales&#8230; c&rsquo;est une espèce locale?                                                                                                                      « Pour votre santé, mangez au moins cinq fruits et légumes par jour » ;<br />
+« Pour votre santé, pratiquez une activité physique régulière , évitez de manger trop gras, trop sucré, trop salé » ; évitez de grignoter entre les repas, buvez régulièrement et sans modération l&rsquo;eau de la fontaine ».<br />
+Bonne continuation!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

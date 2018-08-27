@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Commentaires sur : C&#8217;est décidé&#8230;</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>...un peu plus...un peu moins.</description>
+	<lastBuildDate>Thu, 02 Jun 2016 01:55:20 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>Par : Gérard BRULLAND</title>
+		<link>./../index.html#comment-57</link>
+		<dc:creator><![CDATA[Gérard BRULLAND]]></dc:creator>
+		<pubDate>Fri, 11 Apr 2014 21:41:17 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../../index.html?p=227#comment-57</guid>
+		<description><![CDATA[Un doute me corrode : vous n&#039;avez pas oublié l&#039;exemplaire dédicacé de mon traité du farniente où j&#039;avais soigneusement corné la tête de chapitre intitulée &quot;Où le héros rencontre une chaise longue&quot; ?
+Tant pis et bonne route !]]></description>
+		<content:encoded><![CDATA[<p>Un doute me corrode : vous n&rsquo;avez pas oublié l&rsquo;exemplaire dédicacé de mon traité du farniente où j&rsquo;avais soigneusement corné la tête de chapitre intitulée « Où le héros rencontre une chaise longue » ?<br />
+Tant pis et bonne route !</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : Litzler Noëlle</title>
+		<link>./../index.html#comment-38</link>
+		<dc:creator><![CDATA[Litzler Noëlle]]></dc:creator>
+		<pubDate>Wed, 02 Apr 2014 10:57:58 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../../index.html?p=227#comment-38</guid>
+		<description><![CDATA[Deuxième jour déjà: le soleil est là et l&#039;envie aussi? Bon courage.]]></description>
+		<content:encoded><![CDATA[<p>Deuxième jour déjà: le soleil est là et l&rsquo;envie aussi? Bon courage.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Par : cedric</title>
+		<link>./../index.html#comment-36</link>
+		<dc:creator><![CDATA[cedric]]></dc:creator>
+		<pubDate>Tue, 01 Apr 2014 07:19:51 +0000</pubDate>
+		<guid isPermaLink="false">./../../../../../index.html?p=227#comment-36</guid>
+		<description><![CDATA[Bonne route à toutes les deux et passez le bonjour a et Jacques quand vs le verrez !]]></description>
+		<content:encoded><![CDATA[<p>Bonne route à toutes les deux et passez le bonjour a et Jacques quand vs le verrez !</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
